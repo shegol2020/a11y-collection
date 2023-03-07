@@ -17,7 +17,7 @@ For example, some description for visual impared users that you want to hide fro
 * screen-reader-only class for css, [examples](https://github.com/LinkedInLearning/simplifying-web-development-with-accessibility-best-practices-2883015/blob/main/03_02/index.html)
 
 ### make accessible hamburger menu 
-briefly: hide picture, make wrapper a button, add aria-label, aria-expanded when open 
+briefly: hide picture, make wrapper a button, add aria-label, aria-expanded when open.
 articles: [1](https://uxdesign.cc/create-an-accessible-hamburger-menu-869b0301cfd7), [2](https://medium.com/@linlinghao/accessibility-for-hamburger-menu-a37fa9617a89), [3](https://www.accede-web.com/en/guidelines/rich-interface-components/hamburger-menu/).
 
 ## Study
