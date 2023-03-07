@@ -8,6 +8,14 @@ I add dates to links, because this can be useful as information quickly becomes 
 
 ## How to
 
+### hide content from screen readers
+* [aria-hidden](https://a11y-101.com/development/aria-hidden), if you want the content to be accessible to the sighted
+
+
+### hide visual content 
+For example, some description for visual impared users that you want to hide from screen
+* screen-reader-only class for css, [examples](https://github.com/LinkedInLearning/simplifying-web-development-with-accessibility-best-practices-2883015/blob/main/03_02/index.html)
+
 ## Study
 - [An Introduction to Accessibility and Inclusive Design](https://www.coursera.org/learn/accessibility), coursera course, free, 15 hours
 ### Linkedin learning
