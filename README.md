@@ -34,7 +34,7 @@ I add dates to links, because this can be useful as information quickly becomes 
 
 ### Articles
 
-- [How We Learn to Adapt Yandex Go for Blind Users](https://habr.com/ru/company/yandex/blog/660663/) - making taxi app accessible, 2022
+- [How We Learn to Adapt Yandex Go for Blind Users](https://habr.com/ru/company/yandex/blog/660663/), making taxi app accessible, 2022
 - [Making Web Content Accessible: Standards, Criteria, Implementation Example](https://habr.com/ru/company/ispring/blog/564446/), 2021 
 - [VK Product digital accessibility guide](https://maildesign.notion.site/VK-ddea4f40f2bb4f56a774ba34946c999b), internal doc of IT company, but it's open for everyone now (2023). Describes main idea of accessibility, provides a lot of additional links
 - [How to make a big product accessible](https://habr.com/ru/company/wrike/blog/668268/?mkt_tok=OTk5LUROWC0yNjUAAAGFTfalLtos6EYhg37-x7gQUrkjzA4exzuMp4l0-M0pCHgyGN8oA8P5ScICbVvGgsNwpGF5qRE_mLNsonZgq3fSV1BIDBZjSX9CZp6fmtyhE8xR3SI), accessibility in big company, design system, etc. 2022
