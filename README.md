@@ -34,7 +34,7 @@ articles: [1](https://uxdesign.cc/create-an-accessible-hamburger-menu-869b0301cf
 - [Digital Accessibility for the Modern Workplace](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace?u=106534538), 50 min
 - [React: Accessibility](https://www.linkedin.com/learning/react-accessibility?u=106534538), 34 min
 
-###Udemy
+### Udemy
 - [Web Design Accessibility Certificate](https://www.udemy.com/course/web-accessibility), 1.5 hours
 - [WCAG 2.1 / 2.2 Simplified With Examples](https://www.udemy.com/course/web-content-accessibility-guidelines-wcag-21-simplified), 3 hours
 - [Introduction to WAI-ARIA for Beginners](https://www.udemy.com/course/introduction-to-wai-aria-for-beginners), 3 hours
