@@ -26,12 +26,24 @@ articles: [1](https://uxdesign.cc/create-an-accessible-hamburger-menu-869b0301cf
 
 ## Study
 - [An Introduction to Accessibility and Inclusive Design](https://www.coursera.org/learn/accessibility), coursera course, free, 15 hours
+
 ### Linkedin learning
 - [Simplifying Web Development with Accessibility Best Practices](https://www.linkedin.com/learning/simplifying-web-development-with-accessibility-best-practices?u=106534538), 2 hours
 - [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design?u=106534538), 2 hours
 - [Designing with the WCAG 2.2 Guidelines](https://www.linkedin.com/learning/designing-with-the-wcag-2-2-guidelines?u=106534538), 35 min
 - [Digital Accessibility for the Modern Workplace](https://www.linkedin.com/learning/digital-accessibility-for-the-modern-workplace?u=106534538), 50 min
 - [React: Accessibility](https://www.linkedin.com/learning/react-accessibility?u=106534538), 34 min
+
+###Udemy
+- [Web Design Accessibility Certificate](https://www.udemy.com/course/web-accessibility), 1.5 hours
+- [WCAG 2.1 / 2.2 Simplified With Examples](https://www.udemy.com/course/web-content-accessibility-guidelines-wcag-21-simplified), 3 hours
+- [Introduction to WAI-ARIA for Beginners](https://www.udemy.com/course/introduction-to-wai-aria-for-beginners), 3 hours
+- [Practical Accessibility for Web Developers: Form Controls](https://www.udemy.com/course/practical-accessibility-for-web-developers-form-controls), 2.5 hours
+- [Automated Accessibility Testing for React Applications](https://www.udemy.com/course/automated-a11y-testing/), 1.5 hours 
+- [Web Accessibility: Learn the Best Practises](https://www.udemy.com/course/web-accessibility-learn-the-best-practises), 1.5 hours
+- [Introduction to Web Accessibility WCAG 2.1](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21), 3 hours
+- [Web Accessibility Compliance](https://www.udemy.com/course/learn-web-accessibility-compliance), 1.5 hours
+- [Creating Accessible Websites](https://www.udemy.com/course/creating-accessible-websites/), 3.5 hours
 
 ## Testing
 
