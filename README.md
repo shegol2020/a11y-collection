@@ -2,25 +2,24 @@
 > 
 > Morten Rand-Hendriksen, linkedin learining course
 
-This is my collection of materials I've found about accessibility, mostly for frontend development but also for general understanding. 
-
-I add dates to links, because this can be useful as information quickly becomes outdated.
+This is collection of materials I've found about accessibility, mostly for frontend development. 
+I try add dates to links, because this can be useful as information quickly becomes outdated.
 
 ## How to
 
-### hide content from screen readers
+### ...hide content from screen readers
 * [aria-hidden](https://a11y-101.com/development/aria-hidden), if you want the content to be accessible to the sighted
 
 
-### hide visual content 
+### ...hide visual content 
 For example, some description for visual impared users that you want to hide from screen
 * screen-reader-only class for css, [examples](https://github.com/LinkedInLearning/simplifying-web-development-with-accessibility-best-practices-2883015/blob/main/03_02/index.html)
 
-### make accessible hamburger menu 
+### ...make accessible hamburger menu 
 briefly: hide picture, make wrapper a button, add aria-label, aria-expanded when open.
 articles: [1](https://uxdesign.cc/create-an-accessible-hamburger-menu-869b0301cfd7), [2](https://medium.com/@linlinghao/accessibility-for-hamburger-menu-a37fa9617a89), [3](https://www.accede-web.com/en/guidelines/rich-interface-components/hamburger-menu/).
 
-### make accessible product card
+### ...make accessible product card
 [how to make whole card a link](https://css-tricks.com/block-links-the-search-for-a-perfect-solution/)
 
 
@@ -45,12 +44,14 @@ articles: [1](https://uxdesign.cc/create-an-accessible-hamburger-menu-869b0301cf
 - [Web Accessibility Compliance](https://www.udemy.com/course/learn-web-accessibility-compliance), 1.5 hours
 - [Creating Accessible Websites](https://www.udemy.com/course/creating-accessible-websites/), 3.5 hours
 
-## Testing
-
-## Standarts
 
 ## Using accessible technologies
 - [Voiceover and Braille screen input](https://www.youtube.com/watch?v=wueLXCbm_KY), video, 2 min
+- [Unlocking Potential - girl using Microsoft Adaptive Accessories](https://www.youtube.com/@JaraUnlockingPotential), series of short (2-3 min) videos
+
+## Meta
+
+- [A11y Cat: digital accessibility resources](https://www.a11ycat.net/), collection of accessibility links: articles, guides, checklists, courses, videos
 
 ## Materials in Russian 
 
