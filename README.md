@@ -22,6 +22,10 @@ articles: [1](https://uxdesign.cc/create-an-accessible-hamburger-menu-869b0301cf
 ### ...make accessible product card
 [how to make whole card a link](https://css-tricks.com/block-links-the-search-for-a-perfect-solution/)
 
+### ...limit animations
+@media (prefers-reduced-motion: reduce) {
+[reduced motion](https://a11y-101.com/development/reduced-motion)
+
 
 ## Study
 - [An Introduction to Accessibility and Inclusive Design](https://www.coursera.org/learn/accessibility), coursera course, free, 15 hours
