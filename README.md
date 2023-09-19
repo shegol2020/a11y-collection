@@ -60,6 +60,9 @@ articles: [1](https://uxdesign.cc/create-an-accessible-hamburger-menu-869b0301cf
 
 ## Materials in Russian 
 
+- [Web standard, developer community](https://web-standards.ru/articles/tags/a11y/), collection of articles
+- [Weblind](https://weblind.ru), Recommendations for developing websites for people with visual impairments
+
 ### Authors
 - Mikhail Rubanov, Mobile Head at Dodo Engineering. [iOS accessibility book](https://rubanov.dev/a11y-book/)
 - Valeria Kurmak, Head of Accessibility department at Yandex. Telegram channel about inclusive design ["No exception"](t.me/No_Exception), Founder of an [educational school on digital accessibility](AccessibilityUnity.com/en/). [Accessibility podcast's transcipt](https://medium.com/@Valeria.kurmak)
